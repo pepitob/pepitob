@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hippolyte</h1>
 <h3 align="center">A passionate full-stack developer and marketer from Switzerland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pepitob&label=Profile%20views&color=0e75b6&style=flat" alt="pepitob" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pepitob&label=Profile%20views&color=e8b017&style=flat" alt="pepitob" /> </p>
 
 - 🔭 I’m currently working on [Sting](https://github.com/pepitob/Sting)
 
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pepitob&show_icons=true&theme=radical&locale=en" alt="pepitob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pepitob&theme=dark" alt="pepitob" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pepitob&theme=highcontrast" alt="pepitob" /></p>
