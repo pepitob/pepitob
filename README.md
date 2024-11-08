@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hippo@bourban.info**
 
-- 📄 Learn more at [https://pepi.to/](https://github.com/pepitob)
+- 📄 Learn more at [https://pepi.to/](https://pepi.to)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
