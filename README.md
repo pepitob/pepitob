@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pepitob&label=Profile%20views&color=4a68b0&style=flat" alt="pepitob" /> </p>
 
-- 🔭 I’m currently working on [Yerba Mate Reviews](https://github.com/pepitob/yerba-mate-reviews)
+- 🔭 I’m currently working on [La Ronda - Yerba Mate Reviews](https://yerbamate.co)
 
 - 🌱 I’m currently learning **React, Redux**
 
